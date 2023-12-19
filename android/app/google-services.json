@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949865744847",
+    "project_id": "bluelagoon-2acf9",
+    "storage_bucket": "bluelagoon-2acf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949865744847:android:34804affad8f6f35816aba",
+        "android_client_info": {
+          "package_name": "com.bluelagoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuXhNbH4eioItw0rt8GqoL67mhpeJxaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
